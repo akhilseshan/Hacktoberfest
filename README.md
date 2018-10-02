@@ -40,3 +40,24 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+If you're new to open source (which everyone was once!), you can take a look at the Introduction to Open Source tutorial series.
+
+#Getting Started with Hacktoberfest
+
+To make your first contribution, it's required to familiarize yourself with How To Create a Pull Request.
+
+The following resources share repositories that curate tasks for beginners:
+
+Up For Grabs
+Issuehub.io
+First Timers Only
+Your First PR
+Awesome for Beginners
+Once you start feeling more comfortable, you can continue to find more open source projects that can use your help through the following programs:
+
+Pull Request Roulette
+CodeTriage
+24 Pull Requests (Like Hacktoberfest, except in December)
+Visit this guide to find out more about how you can contribute to open source.
+
+Or learn by playing a game.
